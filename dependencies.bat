@@ -1,4 +1,3 @@
 @echo off
-pip install pyrogram
+pip install -U pyrogram tgcrypto
 pip install python-dotenv
-pip install -U tgcrypto
