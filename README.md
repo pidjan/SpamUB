@@ -1,7 +1,7 @@
 # Installation
 
-1. Clone repository: git clone https://github.com/pidjan/SpamUB.git
-2. Go to the cloned repository: cd SpamUB
+1. Clone repository: `git clone https://github.com/pidjan/SpamUB.git`
+2. Go to the cloned repository: `cd SpamUB`
 3. Create and edit .env using env.sample
 4. Run dependencies.bat. This will install the required pip modules. Or you can run python3 -U -r requirements.txt
 5. Run start.bat to start the bot, or run python3 main.py. login if necessary. 
