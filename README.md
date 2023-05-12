@@ -3,9 +3,9 @@
 1. Clone repository: git clone https://github.com/pidjan/SpamUB.git
 2. Go to the cloned repository: cd SpamUB
 3. Create and edit .env using env.sample
-4. Run dependencies.bat to install the required pip modules. Or run python3 -U -r requirements.txt
-5. Run start.bat to start the bot, login if necessary. Or run python3 main.py
-6. DONE! Run .about in Telegram Saved Messages to check for existing commands.
+4. Run dependencies.bat. This will install the required pip modules. Or you can run python3 -U -r requirements.txt
+5. Run start.bat to start the bot, or run python3 main.py. login if necessary. 
+6. DONE! To check for existing commands, run .about in Telegram Saved Messages.
 
 # Requirements
 
