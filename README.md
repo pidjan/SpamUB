@@ -1,11 +1,11 @@
 # Installation
 
-1. Clone repository: `git clone https://github.com/pidjan/SpamUB.git`
-2. Go to cloned repository: `cd SpamUB`
-3. Create .env and edit using env.sample
-4. Run dependencies.bat to install required pip modules. Or else, run python3 -U -r requirements.txt
-5. Run start.bat to start the bot, login if required. Or else, run python3 main.py
-6. DONE! Run .about in Telegram Saved Messages to check existing commands. 
+1. Clone repository: git clone https://github.com/pidjan/SpamUB.git
+2. Go to the cloned repository: cd SpamUB
+3. Create and edit .env using env.sample
+4. Run dependencies.bat to install the required pip modules. Or run python3 -U -r requirements.txt
+5. Run start.bat to start the bot, login if necessary. Or run python3 main.py
+6. DONE! Run .about in Telegram Saved Messages to check for existing commands.
 
 # Requirements
 
@@ -17,4 +17,4 @@
 
 Spam UserBot made with love using [Python](https://www.python.org/) programming language and [Pyrogram](https://pyrogram.org/) module.
 
-### Creator - [pidjan](https://pidjan.ml)
+## Creator - [pidjan](https://pidjan.ml)
