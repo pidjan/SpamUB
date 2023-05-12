@@ -15,6 +15,6 @@
 
 # About
 
-Spam UserBot made with love using [Python](https://www.python.org/) programming language and [Pyrogram](https://pyrogram.org/) module.
+Spam UserBot was created with love using the [Python](https://www.python.org/) programming language and the [Pyrogram](https://pyrogram.org/) module.
 
 ## Creator - [pidjan](https://pidjan.ml)
