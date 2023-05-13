@@ -10,7 +10,7 @@
 # Requirements
 
 * Python 3.8+
-* API_ID and API_HASH from [Telegram](https://my.telegram.org/apps) and Phone number
+* API_ID, API_HASH from [Telegram](https://my.telegram.org/apps) and Phone number
 * Brain
 
 # About
