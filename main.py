@@ -50,7 +50,7 @@ async def dspam(client, msg):
 @app.on_message(filters.command(["spamub", "about"], prefix) & filters.me)
 async def about(client, msg):
     await msg.edit(
-        f"ℹ️About Spam UserBot:\n\n🌒Current version: {version}\n👑Current user: @{msg.from_user.username}\n👾Created by @pidjan\n\n📦Commands:\n\n▫️{prefix}spam <count> <message>\n▫️{prefix}dspam <delay-per-message> <count> <message>\n▫️{prefix}about"
+        f"ℹ️About Spam UserBot:\n\n🌒Current version: {version}\n👑Current user: @{msg.from_user.username}\n👾Created by @pidjan\n\n📦Commands:\n\n▫️{prefix}spam &lt;count&gt; &lt;message&gt;\n▫️{prefix}dspam &lt;delay-per-message&gt; &lt;count&gt; &lt;message&gt;\n▫️{prefix}about"
     )
 
 
